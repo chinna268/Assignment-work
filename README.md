@@ -14,5 +14,8 @@ You will also see any lint errors in the console.
 
 Class Component. Function Component. Component Constructor
 
-### 'Libraries used.
+### 'Libraries used`.
 React Bootstrap.
+
+
+### `PHOTOS`
