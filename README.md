@@ -20,3 +20,5 @@ React Bootstrap.
 
 ### `PHOTOS`
 ![Screenshot (62)](https://user-images.githubusercontent.com/63144341/120928799-e2de9780-c703-11eb-8f5c-1fcd39e34f9b.png)
+
+![Screenshot (62)](https://user-images.githubusercontent.com/63144341/120928900-3d77f380-c704-11eb-947f-8af7da7a40f0.png)
